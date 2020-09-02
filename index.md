@@ -24,7 +24,7 @@
 
 ---
 [Data Mining - Seed Kernels](/pdfs/Data Mining.pdf)
-<img src="images/Data Minin.png?raw=true"/>
+<img src="images/Data minin.png?raw=true"/>
 
 ---
 [Fluid Dynamics - Airfoil](/pdfs/Airfoil.pdf)
