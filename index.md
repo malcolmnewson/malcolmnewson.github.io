@@ -12,18 +12,18 @@
 <img src="images/Redlen.png?raw=true"/>
 
 ---
-[ASL - IPS Data Processing](/pdf/ASL-Coop Report.pdf)
+[ASL - IPS Data Processing](/pdf/ASL - Coop Report.pdf)
 <img src="images/ASL.png?raw=true"/>
 
 ---
 
 ### Undergrad Projects
 
-[Time Series Analysis Report](/pdf/Temperature Timer Series - report.pdf)
+[Time Series Analysis Report](/pdf/Temperature Timer series - Report.pdf)
 <img src="images/Time series(1).png?raw=true"/>
 
 ---
-[Data Mining - Seed Kernels](/pdf/Data Mining- Report.pdf)
+[Data Mining - Seed Kernels](/pdf/Data mining- Report.pdf)
 <img src="images/Data Minin.png?raw=true"/>
 
 ---
