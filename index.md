@@ -4,30 +4,30 @@
 
 ### Coop Job Reports
 
-[GSC - Isostatic Rebound GPS Data](/pdf/GSC-report.pdf)
+[GSC - Isostatic Rebound GPS Data](/pdf/GSC.pdf)
 <img src="images/GSC(1).png?raw=true"/>
 
 ---
-[Redlen Tech. - X-ray Detector Study](/pdf/Redlen - Report.pdf)
+[Redlen Tech. - X-ray Detector Study](/pdf/Redlen.pdf)
 <img src="images/Redlen.png?raw=true"/>
 
 ---
-[ASL - IPS Data Processing](/pdf/ASL - Coop Report.pdf)
+[ASL - IPS Data Processing](/pdf/ASL.pdf)
 <img src="images/ASL.png?raw=true"/>
 
 ---
 
 ### Undergrad Projects
 
-[Time Series Analysis Report](/pdf/Temperature Timer series - Report.pdf)
+[Time Series Analysis Report](/pdf/Time Series.pdf)
 <img src="images/Time series(1).png?raw=true"/>
 
 ---
-[Data Mining - Seed Kernels](/pdf/Data mining- Report.pdf)
+[Data Mining - Seed Kernels](/pdf/Data Mining.pdf)
 <img src="images/Data Minin.png?raw=true"/>
 
 ---
-[Fluid Dynamics - Airfoil](/pdf/Air foil Project final.pdf)
+[Fluid Dynamics - Airfoil](/pdf/Airfoil.pdf)
 <img src="images/Airfoil.png?raw=true"/>
 
 
