@@ -2,28 +2,34 @@
 
 ---
 
-### test Category Name 1 
+### Coop Job Reports
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[GSC - Isostatic Rebound GPS Data](/pdf/GSC-report.pdf)
+<img src="images/GSC(1).png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Redlen Tech. - X-ray Detector Study](/pdf/Redlen - Report.pdf)
+<img src="images/Redlen.png?raw=true"/>
+
+---
+[ASL - IPS Data Processing](/pdf/ASL-Coop Report.pdf)
+<img src="images/ASL.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### Undergrad Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Time Series Analysis Report](/pdf/Temperature Timer Series - report.pdf)
+<img src="images/Time series(1).png?raw=true"/>
+
+---
+[Data Mining - Seed Kernels](/pdf/Data Mining- Report.pdf)
+<img src="images/Data Minin.png?raw=true"/>
+
+---
+[Fluid Dynamics - Airfoil](/pdf/Air foil Project final.pdf)
+<img src="images/Airfoil.png?raw=true"/>
+
 
 ---
 
