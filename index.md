@@ -4,10 +4,6 @@
 
 ### Coop Job Reports
 
-[GSC - Processing Crustal Motion GPS Data](/pdfs/GSC.pdf)
-<img src="images/GSC.png?raw=true"/>
-
----
 [Redlen - Analysis of Contact Fabrication for CdZnTe X-Ray Detectors](/pdfs/Redlen.pdf)
 <img src="images/Redlen.png?raw=true"/>
 
@@ -17,16 +13,25 @@
 
 ---
 
-### Undergrad Projects
+[GSC - Processing Crustal Motion GPS Data](/pdfs/GSC.pdf)
+<img src="images/GSC.png?raw=true"/>
 
-[Southern Vancouver Island Tempurature Time Series Analysis](/pdfs/Time Series.pdf)
-<img src="images/Time Series.png?raw=true"/>
+
+
 
 ---
+
+### Undergrad Projects
+
 [Analysis of Classification Algorithms to Multi-Class Seed Kernel Data](/pdfs/Data Mining.pdf)
 <img src="images/Data Mining.png?raw=true"/>
 
 ---
+[Southern Vancouver Island Tempurature Time Series Analysis](/pdfs/Time Series.pdf)
+<img src="images/Time Series.png?raw=true"/>
+
+---
+
 [Airfoils and Lift](/pdfs/Airfoil.pdf)
 <img src="images/Airfoil.png?raw=true"/>
 
