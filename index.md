@@ -5,7 +5,7 @@
 ### Coop Job Reports
 
 [GSC - Isostatic Rebound GPS Data](/pdfs/GSC.pdf)
-<img src="images/GSC(1).png?raw=true"/>
+<img src="images/GSC.png?raw=true"/>
 
 ---
 [Redlen Tech. - X-ray Detector Study](/pdfs/Redlen.pdf)
