@@ -20,11 +20,11 @@
 ### Undergrad Projects
 
 [Time Series Analysis Report](/pdfs/Time Series.pdf)
-<img src="images/Time series(1).png?raw=true"/>
+<img src="images/Time Series.png?raw=true"/>
 
 ---
 [Data Mining - Seed Kernels](/pdfs/Data Mining.pdf)
-<img src="images/Data minin.png?raw=true"/>
+<img src="images/Data Mining.png?raw=true"/>
 
 ---
 [Fluid Dynamics - Airfoil](/pdfs/Airfoil.pdf)
