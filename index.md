@@ -19,6 +19,7 @@ Analysed temperature data for the South Vancouver Island area using time series 
 [Download PDF](/pdfs/Redlen.pdf)
 
 Designed and implemented a study of how different metal contacts and surface preparation techniques affect the output characteristics of the detector, improving yields, and reducing costs. 
+
 <img src="images/Redlen.png?raw=true"/>
 
 ---
@@ -26,6 +27,7 @@ Designed and implemented a study of how different metal contacts and surface pre
 [Download PDF](/pdfs/ASL.pdf)
 
 Processed and analyzed physical oceanography time series data sets using inhouse MATLAB tools to consolidate multiple sensor signals into a concise, quality-controlled product.
+
 <img src="images/ASL.png?raw=true"/>
 
 ---
@@ -33,6 +35,7 @@ Processed and analyzed physical oceanography time series data sets using inhouse
 [Download PDF](/pdfs/GSC.pdf)
 
 Processed remote sensing GPS data into time series; used Python to apply corrections and analyze outputs.
+
 <img src="images/GSC.png?raw=true"/>
 
 
